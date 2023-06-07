@@ -22,7 +22,7 @@
 - [Internet of things](#internet-of-things)
 - [Big Data](#big-data)
 - [Databases and storage](#databases)
-- [Docker and DevOps](#docker-and-devops)
+- [DevOps & containers](#devops--containers)
 - [Mobile](#mobile)
 - [Front End Development](#front-end-development)
 - [Security](#security)
@@ -70,6 +70,8 @@
 - Python
 	- [design-patterns](https://github.com/faif/python-patterns) 
 	- [PyPattyrn](https://github.com/tylerlaberge/PyPattyrn) - A simple library for implementing common design patterns.
+	- [Python Design Patterns](https://python-patterns.guide/)
+	- [Design Patterns in Python](https://refactoring.guru/design-patterns/python)
 	- [Django Design Patterns and Best Practices](https://arunrocks.com/static/book/django-design-patterns-best-practices-2-ed)
 - React
 	- [design-patterns](http://krasimirtsonev.com/blog/article/react-js-in-design-patterns)
@@ -91,6 +93,9 @@
 	- [design-patterns cheat-sheet](https://www.slideshare.net/hustwj/design-patterns-cheat-sheet)
 - Vue.js
 	- [Vue Patterns](https://learn-vuejs.github.io/vue-patterns/) - Useful Vue patterns, techniques, tips and tricks and curated helpful links.
+- Elixir
+	- [design-patterns](https://github.com/joshnuss/design-patterns-in-elixir)
+	- [the-pipeline](https://mattpruitt.com/articles/the-pipeline) - The Pipeline is defined by a collection of functions that take a data structure as an argument and return the same type of data structure
 	
 	
 ## General Architecture
@@ -100,13 +105,13 @@
 - [martin fowler](https://martinfowler.com/eaaCatalog) - Catalog of Patterns of Enterprise Application Architecture.
 - [system-design-primer](https://github.com/donnemartin/system-design-primer) - Design large-scale systems.
 - [architecting-for-reliability](https://medium.com/becloudy/architecting-for-reliability-part-1-concepts-17028343089) - Architecting for Reliability Part 1/3.
+- [InnerSource Patterns](https://patterns.innersourcecommons.org/) - Patterns for implementing InnerSource, the use of open source principles and practices for software development within the confines of an organization.
 
 
 ## Cloud Architecture
 - [Cloud cost hacking](https://hackernoon.com/cloud-cost-hacking-fc35fd19985d) - Patterns for reducing cloud costs. 
 - [AWS cloud design patterns](http://en.clouddesignpattern.org/index.php/Main_Page) - The AWS Cloud Design Patterns (CDP).
 - [Azure cloud design patterns](https://docs.microsoft.com/en-us/azure/architecture/patterns) - Building reliable, scalable, secure applications in the cloud.
-- [cloud patterns](http://cloudpatterns.org) - A community site dedicated to documenting a master patterns catalog.
 - [cloud computing patterns](http://www.cloudcomputingpatterns.org) - Cloud Computing Patterns.
 - [Google Cloud Solutions](https://gcp.solutions) - Real business cases solutions with diagrams on GCP.
 - [saas tenant isolation strategies](https://d1.awsstatic.com/whitepapers/saas-tenant-isolation-strategies.pdf) - Isolating Resources in a Multi-Tenant Environment
@@ -154,7 +159,6 @@
 	- [mongodb](https://dzone.com/articles/mongodb-design-patterns) - Mongodb design patterns.
 	- [MongoDB Applied Design Patterns](http://shop.oreilly.com/product/0636920027041.do)
 	- [DynamoDB design patterns](https://amazon-dynamodb-labs.com/design-patterns.html)- Advnaced design patterns for Amazon DynamoDB
-	- [Redis design patterns](https://redislabs.com/redis-best-practices/introduction/)
 	- [Redis applied design patterns](https://redislabs.com/redis-best-practices/introduction/) - Redis Applied Design Patterns book
 - Storage
 	- [storage patterns](https://aws.amazon.com/blogs/storage/comparing-your-on-premises-storage-patterns-with-aws-storage-services/)- Comparing your on-premises storage patterns with AWS Storage services
@@ -195,7 +199,17 @@
 - [owasp](https://www.owasp.org/index.php/Security_by_Design_Principles) - Security by Design Principles.
 - [azure-security](https://docs.microsoft.com/en-us/azure/security/security-best-practices-and-patterns) - Azure security best practices and patterns.
 
-
+## Books
+- [Django Design Patterns and Best Practices](https://arunrocks.com/static/book/django-design-patterns-best-practices-2-ed)
+- [MongoDB Applied Design Patterns](http://shop.oreilly.com/product/0636920027041.do)
+- [Design-Patterns-Elements-Reusable-Object-Oriented](https://www.amazon.com/Design-Patterns-Elements-Reusable-Object-Oriented/dp/0201633612/ref=sr_1_4?s=books&ie=UTF8&qid=1528136036&sr=1-4&keywords=design+patterns)
+- [Head-First-Design-Patterns-Brain-Friendly](https://www.amazon.com/Head-First-Design-Patterns-Brain-Friendly/dp/0596007124/ref=pd_sim_14_4)
+- [Effective-Java-3rd-Joshua-Bloch](https://www.amazon.com/Effective-Java-3rd-Joshua-Bloch/dp/0134685997/ref=pd_sim_14_7)
+- [Node.js Design Patterns](https://www.packtpub.com/web-development/nodejs-design-patterns-second-edition)
+- [Game Programming Patterns](https://github.com/munificent/game-programming-patterns)
+- [Object Design Style Guide](https://www.manning.com/books/object-design-style-guide)
+- [Spring Boot in Practice](https://www.manning.com/books/spring-boot-in-practice)
+- [Designing Microservices](https://www.manning.com/books/designing-microservices)
 
 ## Other Awesome Lists
 - Other amazingly awesome lists can be found in the [awesome](https://github.com/sindresorhus/awesome) list.
